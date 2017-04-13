@@ -1,0 +1,11 @@
+c:\users\abe\documents\visual studio 2015\Projects\nested loop\nested loop\bin\Debug\nested loop.exe.config
+c:\users\abe\documents\visual studio 2015\Projects\nested loop\nested loop\bin\Debug\nested loop.exe
+c:\users\abe\documents\visual studio 2015\Projects\nested loop\nested loop\bin\Debug\nested loop.pdb
+c:\users\abe\documents\visual studio 2015\Projects\nested loop\nested loop\obj\Debug\nested loop.exe
+c:\users\abe\documents\visual studio 2015\Projects\nested loop\nested loop\obj\Debug\nested loop.pdb
+C:\Users\Jake & Lanna\Desktop\projects\PrintPattern\nested-loop-master\nested loop\bin\Debug\nested loop.exe.config
+C:\Users\Jake & Lanna\Desktop\projects\PrintPattern\nested-loop-master\nested loop\obj\Debug\nested loop.exe
+C:\Users\Jake & Lanna\Desktop\projects\PrintPattern\nested-loop-master\nested loop\obj\Debug\nested loop.pdb
+C:\Users\Jake & Lanna\Desktop\projects\PrintPattern\nested-loop-master\nested loop\bin\Debug\nested loop.exe
+C:\Users\Jake & Lanna\Desktop\projects\PrintPattern\nested-loop-master\nested loop\bin\Debug\nested loop.pdb
+C:\Users\Jake & Lanna\Desktop\projects\PrintPattern\nested-loop-master\nested loop\obj\Debug\nested loop.csprojResolveAssemblyReference.cache
